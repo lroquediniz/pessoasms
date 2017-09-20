@@ -9,9 +9,6 @@ import java.util.Date;
 @Data
 public class Pessoa {
 
-    @Id
-    private String id;
-
     private String nome;
 
     private Date dataNascimento;
