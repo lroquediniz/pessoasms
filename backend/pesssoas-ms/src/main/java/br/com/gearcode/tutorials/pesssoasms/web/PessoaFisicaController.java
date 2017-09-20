@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 @Slf4j
-@RequestMapping("/pessoa/fisica")
+@RequestMapping("/pessoas")
 public class PessoaFisicaController {
 
     @Autowired
